@@ -1,7 +1,10 @@
 # NetFlix GPT
 
-    - Create ReactApp
-    - Configured TailwindCss
+ - Create ReactApp
+ - Configured TailwindCss
+    - Header
+    -Login Form
+        -Signup/SignIn Form
 
 # Features
 
