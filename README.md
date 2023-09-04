@@ -4,15 +4,17 @@
  - Configured TailwindCss
     - Header
     - Routing of App
-    -Login Form
-        -Signup/SignIn Form
-        -Form Validation
-        -useRef hooks
-        -firebase Setup
-        -Deploying our app to production
-        -Create SignUp in firebase userAccount
-        -Implement Sign In user api
-        -Created Redux Stroe with userSlice
+    - Login Form
+        - Signup/SignIn Form
+        - Form Validation
+        - useRef hooks
+        - firebase Setup
+        - Deploying our app to production
+        - Create SignUp in firebase userAccount
+        - Implement Sign In user api
+        - Created Redux Stroe with userSlice
+        - Used Auth for signIn and Sign Out
+        - Updated Profile
 
 # Features
 
